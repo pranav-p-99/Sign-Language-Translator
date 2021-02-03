@@ -1,0 +1,46 @@
+<Button>
+    font_size: 20
+    size_hint_y: None
+    height: 60
+    background_normal: ''
+
+<MyLayout>
+
+    BoxLayout:
+
+        orientation: 'vertical'
+        size: root.width, root.height
+        spacing: 30
+        padding: 30
+
+        Label:
+            text: '   H A N D I C A P\nA S S I S T A N C E'
+            font_size: 70
+            background_color: (83/255.0,83/255.0,83/255.0,0.7)
+            canvas.before:
+                Color:
+                    rgba: self.background_color
+                Rectangle:
+                    size: self.size
+                    pos: self.pos
+            
+
+
+        BoxLayout:
+
+            orientation: 'vertical'
+            size: root.width, root.height
+            spacing: 30
+            padding: 60
+ 
+            Button:
+                text: 'G E S T U R E   T O   S P E E C H'
+                background_color: (0,0,1,1)
+                on_press: root.GTS_App()
+                
+
+            Button:
+                text: 'S P E E C H   T O   G E S T U R E'
+                background_color: (1,0,0,1)
+                on_press: root.STG_App()
+            
