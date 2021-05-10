@@ -55,7 +55,7 @@ Run application by first navigating to the Scripts folder and the executing the 
 ### Dataset
 Download Dataset from drive using this [link](https://drive.google.com/file/d/16h4wkGJ1jU4ARjUfO-9c8nuRc6Hzj_zK/view?usp=sharing)<br><br>
 Dataset before and after preprocessing
-![](Output/Dataset.jpg)
+![](Output/d.jpg)
 
 ### App Demo
 <figure class="video_container">
