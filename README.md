@@ -60,6 +60,8 @@ Dataset before and after preprocessing
 ### App Demo
 Click [here](https://drive.google.com/file/d/1X-kNYUmwSaCnQVaA1Zmtgw5StTYEIrC4/view?usp=sharing) to watch demo.
 <figure class="video_container">
-  <iframe src="Output/OP.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="Output/OP.mp4" type="video/mp4">
+  </video>
 </figure>
 
