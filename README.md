@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/63160036/117663693-93698200-b1be-11eb-8ade-cdb46cf522a5.mp4
+
 # Sign Language Translator Using Deep Learning & OpenCV
 ### Description
 Real time application that is meant to assist the speech and hearing impaired people by providing a means of communication. This application is able to convert hand gestures to speech for the speech impaired person and speech to gestures for communicating with the hearing impaired person.<br>
